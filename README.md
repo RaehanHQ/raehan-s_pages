@@ -195,7 +195,7 @@
                        <!-- Project Card 2-->
 <div class="card overflow-hidden shadow rounded-4 border-0 mb-5">
     <div class="card-body p-0">
-        <div class="d-flex flex-column flex-lg-row align-items-center gap-3">
+        <div class="d-flex flex-column flex-row align-items-center gap-3">
             <div class="p-5">
                 <h2 class="fw-bolder">Algoritma Garis DDA & Bresenham</h2>
                 <p>Mengenal Algoritma DDA dan Bresenham: Teknik Dasar Membuat Garis dalam Grafika Komputer.</p>
@@ -212,7 +212,7 @@
 <!-- Project Card 3-->
 <div class="card overflow-hidden shadow rounded-4 border-0 mb-5">
     <div class="card-body p-0">
-        <div class="d-flex flex-column flex-lg-row align-items-center gap-3">
+        <div class="d-flex flex-column flex-row align-items-center gap-3">
             <div class="p-5">
                 <h2 class="fw-bolder">Algoritma Lingkaran Bresenham & Midpoint</h2>
                 <p>Mengenal Algoritma Lingkaran Bresenham dan Midpoint: Teknik Menggambar Lingkaran dalam Grafika Komputer.</p>
